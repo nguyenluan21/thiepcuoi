@@ -1,0 +1,121 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+  }
+  .navbar{
+      padding: 1%;
+      padding-top: 2%;
+      margin-left: 100px;
+  }
+  .nav{
+      margin-left: 100px;
+      font-size: 15px;
+  }
+  .glyphicon1{
+      font-size: 20px;
+      margin-left: 335px;
+      margin-top: 15px;
+  }
+  .gly{
+    margin-left: 410px;
+}
+
+a{
+    color: black;
+}
+.navbar-brand{
+    font-size: 20px;
+}
+.footer{
+    background-color: #173E4A;
+    color: #FFFFFF;
+    padding: 5%;
+}
+.ft{
+    margin-left: 17%;
+}
+.head{
+    font-size: 20px;
+}
+.rep{
+    font-size: 16px;
+    margin-top: 80px;
+}
+.all{
+    font-size: 14px;
+}
+.hr-footer{
+    width: 77%;
+    height: 1px;
+    margin-left: -0%;
+    background-color: #FFFFFF;
+}
+.icon{
+    font-size: 14px;
+    color: #FFFFFF;
+    margin-right: 2%;
+}
+.bot{
+    font-size: 15px;
+    color: black;
+}
+.icon:hover{
+    color: #002631;
+    font-size: 15px;
+}
+.dropdown-item:hover{
+    text-decoration: none;
+    color:rgb(20, 76, 196);
+}
+
+.logo1{
+    width: 60px;
+    height: 60px;
+    margin-top: -22px;
+}
+.div_left{
+    float: left;
+}
+.div_right{
+    float: left;
+    margin-left: 20px;
+}
+
+.logofoot{
+    width: 70px;
+    height: 70px;
+}
+
+.div_left1{
+    float: left;
+}
+.div_right1{
+    float: left;
+    margin-left: 20px;
+    font-size: 25px;
+    margin-top: 17px;
+}
+.logo2{
+    margin-top: 30px;
+}
+.input-icons{
+    display: none;
+}
+.input-field {
+    padding-right: 25px;
+    background: url("https://static.thenounproject.com/png/101791-200.png") no-repeat right;
+    background-size: 20px;
+  }
+
+mark {
+    background: rgb(227, 192, 126);
+    color: black;
+}
+body{
+    font-family: Arial;
+}
+.dropdown-menu{
+    border-top: 3px #00C1C1 solid;
+}

@@ -1,0 +1,35 @@
+header {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.thiep2{
+    padding-top: 10%;
+    padding-bottom: 5%;
+}
+
+.thumbnail {
+    background: #fdd;
+    margin: 30px 0;
+	border: 1px solid #b19898;
+	padding-top: 20px;
+}
+section#contact h2, section#contact h4 {letter-spacing: 5px;}
+.btn-danger {
+	background: #f88078;
+	padding: 20px 60px;
+}
+.btn-success {padding: 20px 60px;}
+section#contact h4 {padding: 20px 0;}
+section#contact {
+    
+    background: #ffdddd;
+    padding: 20px 0 20px 0;
+}
+.inputCome {
+	width: 90%;
+	padding: 8px;
+}
+.modal-open .modal {
+    padding-top: 10%;
+}
+
